@@ -15,8 +15,8 @@ collections:
       markdown: kramdown
       permalink: pretty
       github_url: https://github.com/justinav/theme-jasper
-      github:
-      - metadata
+      github: [metadata]
+      repository: justinav/theme-jasper
       uploads:
         title: Uploads
         output: true
@@ -27,6 +27,6 @@ collections:
         highlighter: rouge
         gist:
           noscript: false
-  uploads:
-    title: Uploads
-    output: true
+          uploads:
+            title: Uploads
+            output: true
