@@ -1,7 +1,7 @@
 ---
-layout: page
 title: News & Opinions
-permalink: /blog/
+permalink: "/blog/"
+layout: page
 ---
 
 {% for post in site.posts %}

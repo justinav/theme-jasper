@@ -9,9 +9,12 @@ collections:
       title: Uploads
       output: true
       email: hi@jusv.co
-      description: 'simple jekyll theme'
+      description: simple jekyll theme
       baseurl: ''
       url: http://jusv.co
       twitter_username: justina_ugh
       github_username: justinav
       markdown: kramdown
+  uploads:
+    title: Uploads
+    output: true
