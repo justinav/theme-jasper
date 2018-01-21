@@ -1,6 +1,6 @@
 ---
 title: Jasper
-timezone: UTC
+timezone: America/New_York
 collections:
   posts:
     title: Posts
@@ -8,6 +8,3 @@ collections:
     uploads:
       title: Uploads
       output: true
-  uploads:
-    title: Uploads
-    output: true
