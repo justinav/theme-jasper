@@ -1,7 +1,6 @@
 ---
 title: Jasper
 timezone: America/New_York
-url: http://hi.jusv.co/theme-jasper/
 collections:
   posts:
     title: Posts
@@ -12,3 +11,4 @@ collections:
   uploads:
     title: Uploads
     output: true
+url: http://hi.jusv.co/theme-jasper/
