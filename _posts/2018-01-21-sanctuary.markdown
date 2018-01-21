@@ -1,0 +1,47 @@
+---
+title: Sanctuary
+date: 2018-01-21 17:47:00 -05:00
+---
+
+via Genius lyrics
+
+[Intro]
+Surely whoever speaks to me in the right voice
+Him or her I shall follow
+
+[Chorus][x2]
+Who needs the sun, when the rain's so full of life
+Who needs the sky
+It's here in your arms I want to be buried
+You are my sanctuary
+
+[Verse 1]
+Who needs a smile, when a tear's so full of love
+Who needs a home, with the stars up above
+It's here in your heart I want to be carried
+You are my sanctuary
+Who needs the light, with the darkness in your eyes
+Who needs to sleep, with the stars in the sky
+It's here in your soul I want to be married
+You are my sanctuary
+
+[Spoken]
+And the earth was void and empty
+And darkness was upon the face of the earth
+
+[Bridge]
+Is all of this pain so necessary
+You are my sanctuary
+
+[Spoken]
+Surely whoever speaks to me in the right voice
+Him or her I shall follow
+As the water follows the moon, silently
+
+[Chorus]
+Who needs the sun (with fluid steps)
+Who needs the sky (around the globe)
+Who needs to sleep (I hear your voice)
+You are (you are) my sanctuary
+You are (you are, you are)
+You are (you are) my sanctuary
