@@ -14,5 +14,8 @@ collections:
       twitter_username: justina_ugh
       github_username: justinav
       markdown: kramdown
-      github: [metadata]
-
+      github:
+      - metadata
+  uploads:
+    title: Uploads
+    output: true
