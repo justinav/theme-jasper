@@ -18,8 +18,6 @@ collections:
       github: [metadata]
       repository: justinav/theme-jasper
       source: https://github.com/justinav/theme-jasper
-      plugins:
-        - "jekyll-github-metadata"
-        uploads:
-          title: Uploads
-          output: true
+      uploads:
+        title: Uploads
+        output: true
