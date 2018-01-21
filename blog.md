@@ -2,6 +2,7 @@
 layout: page
 title: News & Opinions
 permalink: /blog/
+description: my blog
 ---
 
 {% for post in site.posts %}
