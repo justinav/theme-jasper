@@ -22,7 +22,7 @@ collections:
           output: true
           lsi: false
           safe: true
-          source: hhttps://github.com/justinav/theme-jasper
+          source: https://github.com/justinav/theme-jasper
           incremental: false
           highlighter: rouge
           gist:
