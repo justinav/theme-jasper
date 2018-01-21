@@ -17,18 +17,9 @@ collections:
       github_url: https://github.com/justinav/theme-jasper
       github: [metadata]
       repository: justinav/theme-jasper
-      uploads:
-        title: Uploads
-        output: true
-        lsi: false
-        safe: true
-        source: https://github.com/justinav/theme-jasper
-        incremental: false
-        highlighter: rouge
-        gist:
-          noscript: false
-          uploads:
-            title: Uploads
-            output: true
-            plugins:
-              - "jekyll-github-metadata"
+      source: https://github.com/justinav/theme-jasper
+      plugins:
+        - "jekyll-github-metadata"
+        uploads:
+          title: Uploads
+          output: true
