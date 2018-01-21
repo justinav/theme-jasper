@@ -8,20 +8,3 @@ collections:
     uploads:
       title: Uploads
       output: true
-      email: hi@jusv.co
-      description: simple jekyll theme
-      twitter_username: justina_ugh
-      github_username: justinav
-      markdown: kramdown
-      permalink: pretty
-      github_url: https://github.com/justinav/theme-jasper
-      github:
-      - metadata
-      repository: justinav/theme-jasper
-      source: https://github.com/justinav/theme-jasper
-      uploads:
-        title: Uploads
-        output: true
-  uploads:
-    title: Uploads
-    output: true
