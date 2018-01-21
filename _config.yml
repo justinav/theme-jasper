@@ -30,3 +30,5 @@ collections:
           uploads:
             title: Uploads
             output: true
+            plugins:
+              - "jekyll-github-metadata"
