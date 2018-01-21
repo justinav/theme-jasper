@@ -14,16 +14,15 @@ collections:
       github_username: justinav
       markdown: kramdown
       permalink: pretty
-      github_url: hhttps://github.com/justinav/theme-jasper
-      github:
-        - metadata
-        uploads:
-          title: Uploads
-          output: true
-          lsi: false
-          safe: true
-          source: https://github.com/justinav/theme-jasper
-          incremental: false
-          highlighter: rouge
-          gist:
-            noscript: false
+      github_url: https://github.com/justinav/theme-jasper
+      github: [metadata]
+      uploads:
+        title: Uploads
+        output: true
+        lsi: false
+        safe: true
+        source: https://github.com/justinav/theme-jasper
+        incremental: false
+        highlighter: rouge
+        gist:
+          noscript: false
